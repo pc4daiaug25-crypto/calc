@@ -1,3 +1,5 @@
 a=input("Enter 1st number: ")
 b=input("enter 2nd number: ")
 print("The sum of number is ",a+b)
+
+print("The product of number is ",a*b)
